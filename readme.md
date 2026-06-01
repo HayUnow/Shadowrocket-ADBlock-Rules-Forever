@@ -1,4 +1,7 @@
 ## 最完善的 iOS Shadowrocket规则
+> [!IMPORTANT]
+> ### 本仓库做了修改，DNS改写为cloudflare；
+> ### 链接和二维码改为本仓库的，修订时间：2026-6-1
 
 ### 试更新公告
 
